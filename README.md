@@ -1,9 +1,14 @@
 ### Hi there 👋
 
-![repository-open-graph-template](https://github.com/Remolino777/Remolino777/assets/39866683/80952037-4019-43c0-83e4-7640cf8d6a70)
+![repository-open-graph-template_2](https://github.com/Remolino777/Remolino777/assets/39866683/7c57081b-8f2b-4faf-9c19-7f72b49032dc)
 
 
+🔭 I'm currently immersed in machine learning and data science projects, harnessing state-of-the-art technologies such as scikit-learn for modeling and AWS cloud computing for scalable infrastructure. These tools enable me to analyze vast datasets efficiently and develop robust predictive models. Leveraging AWS services ensures seamless scalability and performance optimization for my projects. By utilizing these cutting-edge technologies, I aim to deliver impactful insights and solutions to complex real-world problems, pushing the boundaries of innovation in the fields of machine learning and data science.
 
+
+🌱 I'm currently diving into Transformer technologies for both language processing and computer vision applications. Excited to explore their potential and leverage them for innovative projects at the intersection of NLP and CV.
+
+📫 How to reach me:  email : 7.matute@gmail.com
 <!--
 **Remolino777/Remolino777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
